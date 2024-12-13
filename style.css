@@ -125,3 +125,32 @@ span {
     margin-left: 375px;
     font-size: 24px;
 }
+
+.container-4 {
+    background-color: #3882F6;
+    margin: 150px 300px;
+    padding: 50px 150px;
+    color: #F9FAF8;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.c4-text p {
+    font-size: 24px;
+    margin: 0px;
+}
+
+#small {
+    font-size: 14px;
+}
+
+.c4-button button {
+    background-color: #3882F6;
+    color: white;
+    border: 2px solid white;
+    border-radius: 5px;
+    padding: 10px 40px;
+    font-size: 20px;
+}
